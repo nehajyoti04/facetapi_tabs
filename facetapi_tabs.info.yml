@@ -1,0 +1,8 @@
+name: 'Facet API tabs'
+type: module
+description: 'Displays search facets as tabs.'
+package: Search Toolkit
+dependencies:
+  - facets
+core: '8.x'
+project: 'facetapi_tabs'
